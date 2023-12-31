@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**samuraizin/samuraizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile
 
-Here are some ideas to get you started:
+I am a cybersec student, and I developed a love for the area.
+
+I'm not currently working in the area yet, but I'm trying to develop myself daily.
+
+I intend to post some useful repositories and also some websites, although programming is not my main focus.
+
+Thank you for staying here, if you need, you can send me an email.
+
+contact email:
+- xtremsamurai@gmail.com
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

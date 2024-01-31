@@ -8,7 +8,7 @@ I'm not currently working in the area yet, but I'm trying to develop myself dail
 
 I intend to post some useful repositories and also some websites, although programming is not my main focus.
 
-Thank you for staying here, if you need, you can send me an email.
+Thank you for staying here.
 
 
 <!--

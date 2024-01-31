@@ -10,8 +10,6 @@ I intend to post some useful repositories and also some websites, although progr
 
 Thank you for staying here, if you need, you can send me an email.
 
-contact email:
-- xtremsamurai@gmail.com
 
 <!--
 
